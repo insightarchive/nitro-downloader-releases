@@ -28,6 +28,12 @@ Grab the latest Windows installer from the
 NITRO Downloader is free to try. A license (Personal, Duo, or Family tier)
 can be purchased directly from within the app via the "Buy Now" button.
 
+## Legal
+
+- [Terms of Service](TERMS_OF_SERVICE.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Refund Policy](REFUND_POLICY.md)
+
 ---
 
 This repository hosts only compiled release binaries — no source code.
