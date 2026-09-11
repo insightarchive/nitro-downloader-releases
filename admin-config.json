@@ -2,10 +2,10 @@
   "minRequiredVersion": "",
   "minRequiredVersionDownloadUrl": "",
   "announcement": {
-    "enabled": true,
-    "id": "Testing the banner",
-    "message": "Testing the banner",
-    "linkText": "Learn more",
-    "linkUrl": "https://example.com"
+    "enabled": false,
+    "id": "",
+    "message": "",
+    "linkText": "",
+    "linkUrl": ""
   }
 }
