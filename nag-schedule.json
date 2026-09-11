@@ -1,6 +1,6 @@
 {
   "lightStartDay": 15,
   "heavyStartDay": 50,
-  "lightIntervalDays": 7,
+  "lightIntervalDays": 6,
   "postExpiryTrayIntervalHours": 24
 }
