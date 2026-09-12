@@ -7,5 +7,15 @@
     "message": "",
     "linkText": "",
     "linkUrl": ""
+  },
+  "featureFlags": {
+    "youtubeDownloadsEnabled": true,
+    "facebookDownloadsEnabled": true,
+    "otherSiteExtensionDownloadsEnabled": true
+  },
+  "pricing": {
+    "personal": "",
+    "duo": "",
+    "family": ""
   }
 }
