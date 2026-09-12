@@ -9,12 +9,12 @@
     "linkUrl": ""
   },
   "featureFlags": {
-    "youtubeDownloadsEnabled": true,
+    "youtubeDownloadsEnabled": false,
     "facebookDownloadsEnabled": true,
     "otherSiteExtensionDownloadsEnabled": true
   },
   "pricing": {
-    "personal": "",
+    "personal": "TEST-1.23",
     "duo": "",
     "family": ""
   }
